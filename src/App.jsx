@@ -1,11 +1,12 @@
 
 import './App.css'
+import QueueComponent from './components/QueueComponent'
 
 function App() {
 
   return (
     <>
-      <h2>if you need show projects switch branches</h2>
+    <QueueComponent />
     </>
   )
 }
